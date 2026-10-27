@@ -1,0 +1,6 @@
+{
+  "name": "LOCKDOWN 13 - 3D Escape Room",
+  "description": "A thrilling first-person 3D escape room game set on Floor 13 of an abandoned tower. Solve the color cipher key or test your wits with aptitude questions to escape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
